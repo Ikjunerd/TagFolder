@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Tag Folder]
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Tag Folder\command]
+@="\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"C:\\user_data\\TagFolder.ps1\" \"%V\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Tag Folder]
+"MultiSelectModel"="Document"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Tag Folder\command]
+@="\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"C:\\user_data\\TagFolder.ps1\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"MultipleInvokePromptMinimum"=dword:00000064
