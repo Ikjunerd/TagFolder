@@ -49,9 +49,9 @@ The `.reg` file registers:
 
 ### Example
 
-<img width="1556" height="676" alt="img3" src="https://github.com/user-attachments/assets/5a00ad99-f279-414e-bc64-b59c5bad1a09" />
 <img width="1556" height="676" alt="img1" src="https://github.com/user-attachments/assets/1e3a5c9a-f4c5-470c-8725-66b59ff6e312" />
 <img width="1556" height="676" alt="img2" src="https://github.com/user-attachments/assets/e34db496-ede7-4aff-b831-66afc302f2d4" />
+<img width="1556" height="676" alt="img3" src="https://github.com/user-attachments/assets/5a00ad99-f279-414e-bc64-b59c5bad1a09" />
 
 
 ## How it works
